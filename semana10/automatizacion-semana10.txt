@@ -1,0 +1,24 @@
+AUTOMATIZACIÓN SEMANA 10 - FLUJO N8N Y TELEGRAM
+
+1. ¿Qué evento activa el flujo?
+El flujo se activa mediante un nodo Webhook o un nodo de Base de Datos en n8n. El evento exacto es: "La creación de un 
+nuevo reporte de incidencia por parte de un ciudadano en el sistema de veeduría".
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje claro, directo y con un formato limpio utilizando la acción del nodo de Telegram en n8n:
+
+Mensaje:
+Nuevo Reporte Comunitario Recibido
+Categoría: {categoria_incidencia}
+Ubicación: {sector_o_comuna}
+ID del Caso: #{id_reporte}
+
+ *Por favor, ingresa al panel de administración para revisar los detalles y asignar un encargado.*"
+
+3. ¿Qué información no debería enviarse por seguridad?
+Por políticas de privacidad, seguridad de la información y cumplimiento de protección de datos (como la Ley de Datos Personales), NUNCA se debe enviar a través del canal de Telegram:
+- Nombres completos o apellidos del ciudadano que reporta (para evitar represalias o exposición).
+- Documentos de identidad (cédulas, pasaportes, etc.).
+- Números de teléfono personales o correos electrónicos.
+- Direcciones exactas de domicilios particulares (se usa solo el sector o barrio general).
+- Contraseñas, tokens o llaves de acceso al sistema.

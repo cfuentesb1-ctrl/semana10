@@ -1,0 +1,16 @@
+[ITERACIÓN SEMANA 10 - RESPUESTAS]
+
+1. ¿Qué 2 tareas del backlog harías primero?
+Las dos tareas que se abordarían en primer lugar son:
+- Como ciudadano quiero registrar una incidencia con fotos y ubicación geográfica para dejar evidencia clara del caso de infraestructura dañada.
+- Como coordinador de veeduría quiero recibir una alerta automática en Telegram cada vez que se registre un nuevo reporte crítico para agilizar la revisión del caso.
+
+2. ¿Por qué son las más importantes?
+- El registro de incidencias es la funcionalidad base (el núcleo) del proyecto de veeduría. Sin datos ingresados por los ciudadanos, la plataforma no tiene propósito ni información que procesar.
+- La alerta automática en Telegram cierra el canal de comunicación inicial más crítico: asegura que en cuanto la comunidad reporte un problema urgente, los encargados se enteren de inmediato para actuar, generando valor real y una respuesta rápida desde el primer día.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, que una tarea esté terminada significa que la funcionalidad es completamente operativa, no tiene errores críticos visibles y está lista para ser entregada o utilizada por el usuario final de forma segura, sin requerir ajustes técnicos pendientes.
+
+Definición simple de Terminado (Criterios):
+Para mí, una tarea está realmente lista cuando cumple con tres condiciones sencillas: primero, funciona bien y hace exactamente lo que el usuario espera; segundo, ya fue probada a fondo para asegurar que no tenga fallos; y tercero, el código quedó registrado en Git y subido a la plataforma para que todos puedan usarlo.

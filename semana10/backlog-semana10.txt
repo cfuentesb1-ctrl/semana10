@@ -1,0 +1,27 @@
+HISTORIAS DE USUARIO - SOLUCIÓN COMUNITARIA Y DE VEEDURÍA
+
+HISTORIAS DE USUARIO RECOPILADAS:
+
+1. Como ciudadano quiero registrar una incidencia con fotos y ubicación geográfica para dejar evidencia clara del caso de infraestructura dañada.
+2. Como veedor comunitario quiero exportar un reporte mensual en formato PDF para presentarlo ante las autoridades locales en las audiencias públicas.
+3. Como coordinador de veeduría quiero recibir una alerta automática en Telegram cada vez que se registre un nuevo reporte crítico para agilizar la revisión del caso.
+4. Como miembro del equipo de seguimiento quiero asignar estados a los reportes (Pendiente, En Revisión, Resuelto) para informar de manera transparente a la comunidad sobre el avance.
+
+
+BACKLOG PRIORIZADO (De mayor a menor prioridad):
+
+Prioridad Altísima (Core de la aplicación):
+1. Como ciudadano quiero registrar una incidencia con fotos y ubicación geográfica para dejar evidencia clara del caso de infraestructura dañada.
+*Razón:* Sin la capacidad de registrar incidentes, la plataforma no tiene razón de ser. Es la funcionalidad base.
+
+Prioridad Alta (Gestión y respuesta rápida):
+2. Como coordinador de veeduría quiero recibir una alerta automática en Telegram cada vez que se registre un nuevo reporte crítico para agilizar la revisión del caso.
+*Razón:* Permite que el equipo actúe rápido ante emergencias comunitarias una vez que el sistema ya capta datos.
+
+Prioridad Media (Transparencia y flujo):
+3. Como miembro del equipo de seguimiento quiero asignar estados a los reportes (Pendiente, En Revisión, Resuelto) para informar de manera transparente a la comunidad sobre el avance.
+*Razón:* Es vital para mantener la confianza y la comunicación con los vecinos, pero requiere que ya existan datos previos.
+
+Prioridad Baja (Formalismo y cierre):
+4. Como veedor comunitario quiero exportar un reporte mensual en formato PDF para presentarlo ante las autoridades locales en las audiencias públicas.
+*Razón:* Aunque es una herramienta de rendición de cuentas muy potente, se ejecuta de manera periódica (mensual) y depende de haber acumulado un volumen de datos con sus respectivos estados actualizados.

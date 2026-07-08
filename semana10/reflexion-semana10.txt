@@ -1,0 +1,9 @@
+Las metodologías ágiles, la automatización y canales como Telegram son herramientas fundamentales para potenciar 
+la participación ciudadana. Al aplicar un enfoque ágil, los comités de veeduría pueden priorizar las problemáticas 
+más urgentes de la comunidad y adaptar sus planes de acción rápidamente a medida que surgen nuevas prioridades. 
+Por otro lado, la automatización mediante plataformas como n8n permite conectar los reportes vecinales con sistemas
+internos sin requerir esfuerzo manual, reduciendo tiempos de gestión.
+Telegram actúa como un puente de comunicación instantáneo y seguro, permitiendo que los coordinadores
+reciban alertas en tiempo real y que la comunidad se mantenga informada transparentemente sobre los avances de sus solicitudes. 
+Juntas, estas tecnologías transforman la participación comunitaria de un proceso lento y desalentador a un ecosistema dinámico,
+eficiente, organizado y altamente colaborativo.
